@@ -5,7 +5,7 @@
         http://jboss.org/schema/arquillian/arquillian_1_0.xsd">
 
     <extension qualifier="webdriver">
-        <property name="browser">chrome</property>
+        <property name="browser">firefox</property>
     </extension>
 
 </arquillian>
